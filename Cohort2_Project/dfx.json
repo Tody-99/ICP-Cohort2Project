@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "Cohort2_Project_backend": {
+      "main": "src/Cohort2_Project_backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
