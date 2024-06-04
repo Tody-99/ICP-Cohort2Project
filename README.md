@@ -1,2 +1,2 @@
 # ICP-Cohort2Project
-My Second project in Blockchain with ICP.
+A simple ticketing app using Motoko.
